@@ -12,3 +12,9 @@
 # Jupyter Notebook workspace files
 *.ipynb_checkpoints
 .DS_Store
+
+# Datasets
+test.csv
+train.csv
+
+*env
